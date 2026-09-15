@@ -9,4 +9,4 @@ Tested whether extracurricular participation affects average test scores across 
 **Tools:** Python, pandas, statsmodels/scipy (Welch's t-test, OLS regression)
 
 **Files:**
-- Notebook not yet added — drop your `.ipynb`/`.py` file here.
+
